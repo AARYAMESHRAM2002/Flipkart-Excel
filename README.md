@@ -10,6 +10,8 @@ This project presents a detailed analysis and visualization of a Flipkart mobile
 
 ## 📌 Dashboard Highlights
 
+![WhatsApp Image 2025-07-30 at 20 43 36_f67f408e](https://github.com/user-attachments/assets/b04bf8a8-f55f-4fa8-bb0f-f91fc6eedd9c)
+
 The Excel dashboard includes the following insights:
 
 * **Average Ratings**: 4.3
